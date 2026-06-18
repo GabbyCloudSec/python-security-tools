@@ -1,34 +1,49 @@
 # Python Security Tools
 
-Security and automation tools written in Python.
+## Overview
 
-## Projects
+This repository contains Python-based tools and scripts created to explore automation and cybersecurity concepts. These projects are designed to strengthen programming skills while applying security-focused problem solving.
 
-- Password Strength Checker
-- Hash Generator
-- Log Analyzer
-- Port Scanner
+## Technologies Used
 
-## Repository Structure
+* Python
+* Git
+* Command Line
+* Linux
+* VS Code
 
-```text
-python-security-tools
-│
-├── password-strength-checker
-├── hash-generator
-├── log-analyzer
-└── port-scanner
-```
+## Features
 
-## Purpose
+* Security-focused scripts
+* Automation tools
+* File and log processing
+* Input validation
+* Command-line utilities
 
-Develop practical Python skills through security and automation projects.
+## Skills Demonstrated
 
-## Technologies
+* Python Programming
+* Automation
+* Scripting
+* Problem Solving
+* Documentation
+* Debugging
 
-- Python
-- VS Code
+## What I Learned
 
-## Status
+Through these projects, I developed practical experience writing Python scripts, organizing code, troubleshooting errors, and applying programming concepts to security-related tasks.
 
-Active
+## Future Improvements
+
+* Add log analysis tools
+* Create network scanning utilities
+* Implement API integrations
+* Expand automation capabilities
+* Improve error handling and user interaction
+
+## Author
+
+Gabriell Bedoy
+
+GitHub: https://github.com/GabbyCloudSec
+
