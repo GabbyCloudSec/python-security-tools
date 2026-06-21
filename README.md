@@ -2,35 +2,26 @@
 
 🔗 Part of my [Cloud Security Portfolio](https://gabbycloudsec.github.io)
 
-Python scripts focused on security automation, information gathering, file processing, and practical scripting practice.
+🚧 **Status: Planned** — this repo holds the objectives, skills, and approach for
+each tool before I start building. Check each folder for its individual status.
 
-## What This Covers
+A collection of planned Python scripts focused on security automation, information
+gathering, file processing, and practical scripting practice.
 
-- **Hash Generator** — generates and compares file/string hashes
-- **Log Analyzer** — parses and processes log files for relevant entries
-- **Password Strength Checker** — evaluates password strength against security criteria
-- **Port Scanner** — scans hosts for open ports
-- Input validation
-- Command-line utilities
-- Basic debugging and error handling
+## Planned Tools
 
-## Skills Practiced
+| Tool | Goal | Skills |
+|---|---|---|
+| **Hash Generator** | Generate hashes, explore hashing algorithms (MD5, SHA-1, SHA-256), understand integrity verification | Python, hashlib |
+| **Log Analyzer** | Read log files, search for patterns, identify suspicious events | Python, file handling, loops |
+| **Password Strength Checker** | Evaluate password complexity, check length, verify character requirements | Python, conditionals, string methods |
+| **Port Scanner** | Scan ports, understand TCP connections, learn socket programming | Python, networking, sockets |
 
-- Python programming
-- Security automation
-- Scripting
-- Command-line usage
-- Debugging
-- Documentation
-- Problem solving
+## Why This Repo Exists
 
-## Future Improvements
-
-- Add log analysis tools
-- Create network scanning utilities
-- Implement API integrations
-- Expand automation features
-- Improve error handling and user interaction
+I'm documenting the plan before the build — each folder has its own README with
+objectives and skills, and will be updated with working code and status as I
+complete each tool.
 
 ## Author
 
